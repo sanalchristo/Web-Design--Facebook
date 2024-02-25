@@ -1,0 +1,55 @@
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: darkslateblue;
+}
+
+.logo{
+    width:50%;
+    height: 100px;
+    text-align: center;
+    float: left;
+    padding-top: 30px;
+   
+}
+
+.logo-text{
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+  
+
+}
+
+.login{
+    padding-top: 30px;
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+
+.main-body{
+    width: 100%;
+    height: 637px;
+    background-color: white;
+    background-image: linear-gradient(white,darkslateblue);
+    
+    
+}
+
+.left-box{
+    width: 50%;
+    float:left;
+}
+
+.pic{
+    
+    width: 100%;
+  padding-left: 20px;
+   
+}
+
+.right-box{
+    width: 50%;
+    float: left;
+}
